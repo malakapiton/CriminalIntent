@@ -1,2 +1,2 @@
 # CriminalIntent
-Training project
+My training project on Android
